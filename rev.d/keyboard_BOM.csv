@@ -1,19 +1,20 @@
 Comment,Description,Designator,Footprint,LibRef,Pins,Quantity,PartNumber,url
-0.1uF,desc,"C1,C2,",JLC_0805C,libref,2,2,,
-NC/47pF,desc,"C3,",JLC_0805C,libref,2,1,,
-1uF,desc,"C4,C5,C6,",JLC_0805C,libref,2,3,,
-10nF,desc,"C7,",JLC_0805C,libref,2,1,,
-10uF,desc,"C8,",JLC_0805C,libref,2,1,,
-1N4148W,desc,"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D70,",JLC_SOD-123,libref,2,62,,https://atta.szlcsc.com/upload/public/pdf/source/20161024/1477288446905.pdf
-Red LED,desc,"LED12,",JLC_0805_LED,libref,2,1,,
-Blue LED,desc,"LED22,",JLC_0805_LED,libref,2,1,,
-Green LED,desc,"LED32,",JLC_0805_LED,libref,2,1,,
-Orange LED,desc,"LED42,",JLC_0805_LED,libref,2,1,,
-10K,desc,"R1,",JLC_0805R,libref,2,1,,
-4.7K,desc,"R2,",JLC_0805R,libref,2,1,,
-10M,desc,"R3,",JLC_0805R,libref,2,1,,
-2.2M,desc,"R4,",JLC_0805R,libref,2,1,,
-330R,desc,"R42,R32,R22,R12,",JLC_0805R,libref,2,4,,
-1R,desc,"R5,",JLC_0805R,libref,2,1,,
-TP4057,desc,"U3,",JLC_SOT-23-6,libref,6,1,,https://atta.szlcsc.com/upload/public/pdf/source/20140228/1457706997013.pdf
-XC6206P332MR,desc,"U4,",JLC_SOT-23-3L,libref,3,1,,https://atta.szlcsc.com/upload/public/pdf/source/20130801/1457706628791.pdf
+0.1uF,贴片电容,"C1,C2,",JLC_0805C,libref,2,2,,
+NC/47pF,贴片电容,"C3,",JLC_0805C,libref,2,1,,
+1uF,贴片电容,"C4,C5,C6,",JLC_0805C,libref,2,3,,
+10nF,贴片电容,"C7,",JLC_0805C,libref,2,1,,
+10uF,贴片电容,"C8,",JLC_0805C,libref,2,1,,
+1N4148W,开关二极管,"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,",JLC_SOD-123,libref,2,62,,https://atta.szlcsc.com/upload/public/pdf/source/20161024/1477288446905.pdf
+B5819W SL,肖特基二极管,"D70,",JLC_SOD-123,libref,2,62,,
+Red LED,0805 LED,"LED12,",JLC_0805_LED,libref,2,1,,
+Blue LED,0806 LED,"LED22,",JLC_0805_LED,libref,2,1,,
+Green LED,0807 LED,"LED32,",JLC_0805_LED,libref,2,1,,
+Orange LED,0808 LED,"LED42,",JLC_0805_LED,libref,2,1,,
+10K,贴片电阻,"R1,",JLC_0805R,libref,2,1,,
+4.7K,贴片电阻,"R2,",JLC_0805R,libref,2,1,,
+10M,贴片电阻,"R3,",JLC_0805R,libref,2,1,,
+2.2M,贴片电阻,"R4,",JLC_0805R,libref,2,1,,
+330R,贴片电阻,"R42,R32,R22,R12,",JLC_0805R,libref,2,4,,
+1R,贴片电阻,"R5,",JLC_0805R,libref,2,1,,
+TP4057,锂电池充电芯片,"U3,",JLC_SOT-23-6,libref,6,1,,https://atta.szlcsc.com/upload/public/pdf/source/20140228/1457706997013.pdf
+XC6206P332MR,低压差线性稳压,"U4,",JLC_SOT-23-3L,libref,3,1,,https://atta.szlcsc.com/upload/public/pdf/source/20130801/1457706628791.pdf
