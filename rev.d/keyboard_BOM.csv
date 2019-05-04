@@ -1,30 +1,30 @@
 Comment,Description,Designator,Footprint,LibRef,Pins,Quantity,PartNumber,url
-0.1uF,ÌùÆ¬µçÈİ,"C1,C2,",JLC_0805C,libref,2,2,,
-NC/47pF,ÌùÆ¬µçÈİ,"C3,",JLC_0805C,libref,2,1,,
-1uF,ÌùÆ¬µçÈİ,"C4,C5,C6,",JLC_0805C,libref,2,3,,
-10nF,ÌùÆ¬µçÈİ,"C7,",JLC_0805C,libref,2,1,,
-10uF,ÌùÆ¬µçÈİ,"C8,",JLC_0805C,libref,2,1,,
-1N4148W,¿ª¹Ø¶ş¼«¹Ü,"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,",JLC_SOD-123,libref,2,62,,https://atta.szlcsc.com/upload/public/pdf/source/20161024/1477288446905.pdf
-B5819W SL,Ğ¤ÌØ»ù¶ş¼«¹Ü,"D70,",JLC_SOD-123,libref,2,62,,
+0.1uF,è´´ç‰‡ç”µå®¹,"C1,C2,",JLC_0805C,libref,2,2,,
+NC/47pF,è´´ç‰‡ç”µå®¹,"C3,",JLC_0805C,libref,2,1,,
+1uF,è´´ç‰‡ç”µå®¹,"C4,C5,C6,",JLC_0805C,libref,2,3,,
+10nF,è´´ç‰‡ç”µå®¹,"C7,",JLC_0805C,libref,2,1,,
+10uF,è´´ç‰‡ç”µå®¹,"C8,",JLC_0805C,libref,2,1,,
+1N4148W,å¼€å…³äºŒæç®¡,"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,",JLC_SOD-123,libref,2,62,,https://atta.szlcsc.com/upload/public/pdf/source/20161024/1477288446905.pdf
+B5819W SL,è‚–ç‰¹åŸºäºŒæç®¡,"D70,",JLC_SOD-123,libref,2,62,,
 Red LED,0805 LED,"LED12,",JLC_0805_LED,libref,2,1,,
 Blue LED,0806 LED,"LED22,",JLC_0805_LED,libref,2,1,,
 Green LED,0807 LED,"LED32,",JLC_0805_LED,libref,2,1,,
 Orange LED,0808 LED,"LED42,",JLC_0805_LED,libref,2,1,,
-10K,ÌùÆ¬µç×è,"R1,",JLC_0805R,libref,2,1,,
-4.7K,ÌùÆ¬µç×è,"R2,",JLC_0805R,libref,2,1,,
-10M,ÌùÆ¬µç×è,"R3,",JLC_0805R,libref,2,1,,
-2.2M,ÌùÆ¬µç×è,"R4,",JLC_0805R,libref,2,1,,
-330R,ÌùÆ¬µç×è,"R42,R32,R22,R12,",JLC_0805R,libref,2,4,,
-1R,ÌùÆ¬µç×è,"R5,",JLC_0805R,libref,2,1,,
-TP4057,ï®µç³Ø³äµçĞ¾Æ¬,"U3,",JLC_SOT-23-6,libref,6,1,,https://atta.szlcsc.com/upload/public/pdf/source/20140228/1457706997013.pdf
-XC6206P332MR,µÍÑ¹²îÏßĞÔÎÈÑ¹,"U4,",JLC_SOT-23-3L,libref,3,1,,https://atta.szlcsc.com/upload/public/pdf/source/20130801/1457706628791.pdf
+10K,è´´ç‰‡ç”µé˜»,"R1,",JLC_0805R,libref,2,1,,
+4.7K,è´´ç‰‡ç”µé˜»,"R2,",JLC_0805R,libref,2,1,,
+10M,è´´ç‰‡ç”µé˜»,"R3,",JLC_0805R,libref,2,1,,
+2.2M,è´´ç‰‡ç”µé˜»,"R4,",JLC_0805R,libref,2,1,,
+330R,è´´ç‰‡ç”µé˜»,"R42,R32,R22,R12,",JLC_0805R,libref,2,4,,
+1R,è´´ç‰‡ç”µé˜»,"R5,",JLC_0805R,libref,2,1,,
+TP4057,é”‚ç”µæ± å……ç”µèŠ¯ç‰‡,"U3,",JLC_SOT-23-6,libref,6,1,,https://atta.szlcsc.com/upload/public/pdf/source/20140228/1457706997013.pdf
+XC6206P332MR,ä½å‹å·®çº¿æ€§ç¨³å‹,"U4,",JLC_SOT-23-3L,libref,3,1,,https://atta.szlcsc.com/upload/public/pdf/source/20130801/1457706628791.pdf
 ,,,,,,,,
 ,,,,,,,,
-²»Ìù×°Ôª¼ş,,,,,,,,
-RF-BM-ND04,À¶ÑÀÖ÷¿Ø°å,"U1,",RF-BM-ND04,LibRef,33,1,,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dqy4GrE&id=563254127395&_u=4mp3j1fb36
-CH552T,USBĞ¾Æ¬,"U2,",JLC_TSSOP-20,LibRef,20,1,,
-Bootloader Button,Bootloader°´Å¥,"SW1,",Switch,LibRef,2,1,,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.403d2e8dNmbyeE&id=556985020016&_u=4mp3j15e56
-MX1A,MXÖáÌåor¿­»ªÖá×ù,"S6,S28,S2,S4,S5,S7,S8,S9,S10,S11,S12,S13,S14,S15,S16,S17,S18,S19,S20,S21,S22,S23,S24,S25,S26,S27,S29,S30,S31,S32,S33,S34,S35,S36,S37,S38,S39,S40,S41,S42,S43,S44,S45,S46,S47,S48,S49,S50,S51,S52,S53,S54,S55,S56,S57,S58,S59,S60,S61,S1,S3,",Kailh_socket_optional,LibRef,9,61,,
-1.25mm,1.25mm2PÍäÕëµç³Ø½Ó¿ÚÄ¸×ù,"BATT1,",PinHeader_2x1.25mm,LibRef,2,1,,https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.58.47cf7484bbDVc8&id=528795201308
-2.54mm,2.54mm2Pµç³Ø½Ó¿Ú,"BATT2,",PinHeader_1x02_P2.54mm_Vertical,LibRef,2,1,,
-USB_TYPE_C,ÌùÆ¬USB-3.1²å×ù 16P,"J1,",type-c,LibRef,18,1,,https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.76.47cf7484bbDVc8&id=573090887123
+ä¸è´´è£…å…ƒä»¶,,,,,,,,
+RF-BM-ND01,è“ç‰™ä¸»æ§æ¿,"U1,",RF-BM-ND01,LibRef,33,1,,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dqy4GrE&id=563254127395&_u=4mp3j1fb36
+CH552T,USBèŠ¯ç‰‡,"U2,",JLC_TSSOP-20,LibRef,20,1,,https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-21223910208.9.55dc6a4bV8yMGt&id=574979089030
+Bootloader Button,BootloaderæŒ‰é’®,"SW1,",Switch,LibRef,2,1,,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.403d2e8dNmbyeE&id=556985020016&_u=4mp3j15e56
+MX1A,MXè½´ä½“orå‡¯åè½´åº§,"S6,S28,S2,S4,S5,S7,S8,S9,S10,S11,S12,S13,S14,S15,S16,S17,S18,S19,S20,S21,S22,S23,S24,S25,S26,S27,S29,S30,S31,S32,S33,S34,S35,S36,S37,S38,S39,S40,S41,S42,S43,S44,S45,S46,S47,S48,S49,S50,S51,S52,S53,S54,S55,S56,S57,S58,S59,S60,S61,S1,S3,",Kailh_socket_optional,LibRef,9,61,,
+1.25mm,1.25mm2På¼¯é’ˆç”µæ± æ¥å£æ¯åº§,"BATT1,",PinHeader_2x1.25mm,LibRef,2,1,,https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.58.47cf7484bbDVc8&id=528795201308
+2.54mm,2.54mm2Pç”µæ± æ¥å£,"BATT2,",PinHeader_1x02_P2.54mm_Vertical,LibRef,2,1,,
+USB_TYPE_C,è´´ç‰‡USB-3.1æ’åº§ 16P,"J1,",type-c,LibRef,18,1,,https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.76.47cf7484bbDVc8&id=573090887123
