@@ -18,3 +18,13 @@ Orange LED,0808 LED,"LED42,",JLC_0805_LED,libref,2,1,,
 1R,贴片电阻,"R5,",JLC_0805R,libref,2,1,,
 TP4057,锂电池充电芯片,"U3,",JLC_SOT-23-6,libref,6,1,,https://atta.szlcsc.com/upload/public/pdf/source/20140228/1457706997013.pdf
 XC6206P332MR,低压差线性稳压,"U4,",JLC_SOT-23-3L,libref,3,1,,https://atta.szlcsc.com/upload/public/pdf/source/20130801/1457706628791.pdf
+,,,,,,,,
+,,,,,,,,
+不贴装元件,,,,,,,,
+RF-BM-ND04,蓝牙主控板,"U1,",RF-BM-ND04,LibRef,33,1,,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dqy4GrE&id=563254127395&_u=4mp3j1fb36
+CH552T,USB芯片,"U2,",JLC_TSSOP-20,LibRef,20,1,,
+Bootloader Button,Bootloader按钮,"SW1,",Switch,LibRef,2,1,,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.403d2e8dNmbyeE&id=556985020016&_u=4mp3j15e56
+MX1A,MX轴体or凯华轴座,"S6,S28,S2,S4,S5,S7,S8,S9,S10,S11,S12,S13,S14,S15,S16,S17,S18,S19,S20,S21,S22,S23,S24,S25,S26,S27,S29,S30,S31,S32,S33,S34,S35,S36,S37,S38,S39,S40,S41,S42,S43,S44,S45,S46,S47,S48,S49,S50,S51,S52,S53,S54,S55,S56,S57,S58,S59,S60,S61,S1,S3,",Kailh_socket_optional,LibRef,9,61,,
+1.25mm,1.25mm2P弯针电池接口母座,"BATT1,",PinHeader_2x1.25mm,LibRef,2,1,,https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.58.47cf7484bbDVc8&id=528795201308
+2.54mm,2.54mm2P电池接口,"BATT2,",PinHeader_1x02_P2.54mm_Vertical,LibRef,2,1,,
+USB_TYPE_C,贴片USB-3.1插座 16P,"J1,",type-c,LibRef,18,1,,https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.76.47cf7484bbDVc8&id=573090887123
