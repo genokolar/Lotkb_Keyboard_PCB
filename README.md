@@ -2,8 +2,8 @@
 A bluetooth keyboard powered by Lotkb, PCB by Kicad, Schematic fork of https://github.com/Lotlab/BLE60-keyboard  
 一个采用Kicad设计制作的Lotkb驱动的蓝牙键盘PCB，原理图参考Lotlab的蓝牙键盘进行更改优化。
 
-![img](rev.d2/keyboard.png)
-![img](rev.d2/keyboard2.png)
+![img](ble60-rev.d2/keyboard.png)
+![img](ble60-rev.d2/keyboard2.png)
 
 **生产用Gerber文件可直接用于生产，BOM文件与贴装坐标文件也可直接用于贴装**
 
