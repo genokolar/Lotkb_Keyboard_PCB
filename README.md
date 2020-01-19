@@ -12,6 +12,6 @@ using nRF52(or nRF51)  and CH554(or CH552).
 
 Firmware Source Code/固件源码: 
 - [nrf51822-keyboard](https://github.com/genokolar/nrf51822-keyboard/tree/GT-BLE60)
-- [nrf52-keyboard](https://github.com/genokolar/nrf52-keyboard/tree/GT)
+- [nrf52-keyboard](https://github.com/genokolar/nrf52-keyboard)
 
 More description/详细信息在此查看：[https://glab.online/](https://glab.online/)
